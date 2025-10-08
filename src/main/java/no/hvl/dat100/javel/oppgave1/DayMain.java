@@ -15,6 +15,7 @@ public class DayMain {
         System.out.println("OPPGAVE 1");
         System.out.println("==============");
         System.out.println();
+        DailyPower.computeSpotPrice(powerusage_day, powerprices_day);
 
         /*
         TODO
